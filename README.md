@@ -23,4 +23,4 @@ release/v1.0.0 - Cambios revisados, ademas probados para enviar a main
 hotfix/readme-typo - Correcciones en caliente
 tag v1.0.0 - Primera version
 ## Evidencias
-Enviadas en el moodle
+Enviadas en un documento cuyo link es: https://docs.google.com/document/d/1tlkIOKPeah7WDqE0a1Gzd5OzyVXuW-zzqjHi0EQofrQ/edit?usp=sharing
